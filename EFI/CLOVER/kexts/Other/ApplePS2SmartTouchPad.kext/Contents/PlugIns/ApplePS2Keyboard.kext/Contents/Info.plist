@@ -160,7 +160,7 @@
 				<key>FinerFnVolumeControl</key>
 				<false/>
 				<key>Make Caps Lock into key</key>
-				<integer>0</integer>
+				<integer>29</integer>
 				<key>Make ISO keypad key . to ,</key>
 				<false/>
 				<key>Make Num Lock into Clear</key>

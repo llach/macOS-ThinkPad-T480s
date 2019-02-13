@@ -1298,9 +1298,9 @@
 					<key>3FingerSwipeDownAction</key>
 					<integer>0</integer>
 					<key>3FingerSwipeLeftAction</key>
-					<integer>11</integer>
+					<integer>7</integer>
 					<key>3FingerSwipeRightAction</key>
-					<integer>12</integer>
+					<integer>6</integer>
 					<key>3FingerSwipeUpAction</key>
 					<integer>0</integer>
 					<key>3FingerSwipes</key>
